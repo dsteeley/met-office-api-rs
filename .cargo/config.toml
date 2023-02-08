@@ -1,0 +1,5 @@
+[registry]
+default = "crates-io"
+
+[source.crates-io]
+registry = "https://crates.io"
