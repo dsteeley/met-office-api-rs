@@ -1,7 +1,9 @@
 [package]
-name = "met-office-api-rs"
+name = "met-office-api"
 version = "0.1.0-alpha"
 edition = "2021"
+description = "Rust bindings for the UK Met Office API"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
