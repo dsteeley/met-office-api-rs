@@ -2,4 +2,4 @@
 default = "crates-io"
 
 [source.crates-io]
-registry = "https://crates.io"
+registry = "https://github.com/rust-lang/crates.io-index"
